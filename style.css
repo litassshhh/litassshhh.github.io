@@ -1,0 +1,28 @@
+.tabcen {
+    width: 300px;
+	border: 1px solid #000;
+    margin: auto;
+}
+p {
+	color: white;
+}
+ul {
+	background-color: #568c7c;
+	color: white;
+}
+b {
+	color: white;
+}
+h3 {
+	text-align:center;
+	color:white;
+}
+ol {
+	background-color: #e1ebe5;
+}
+#blk {
+  border: 1px solid black;
+  border-color:  lime;
+  color: white;
+ }
+
